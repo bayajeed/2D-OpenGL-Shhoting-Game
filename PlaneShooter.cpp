@@ -1,4 +1,6 @@
-
+/***
+Author : H. M. Tarek Ullah
+***/
 
 #include <stdio.h>
 #include <GL/glut.h>
