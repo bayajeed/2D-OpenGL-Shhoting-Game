@@ -1,3 +1,8 @@
+/***
+Author : H. M. Tarek Ullah
+***/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 //#include <windows.h>
