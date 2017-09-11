@@ -1,2 +1,2 @@
-# 2D-Games
-2D Games developed using C++ and OpenGL
+# 2D-OpenGL-Games
+2D OpenGL Games developed using C++ and OpenGL
